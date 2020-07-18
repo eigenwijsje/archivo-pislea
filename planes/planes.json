@@ -1,0 +1,350 @@
+[
+  {
+    "entidad": "Autoridad de Fiscalización y Control Social de Agua Potable",
+    "fuente": "https://digital.gob.bo/pisleas/central/AAPS.pdf"
+  },
+  {
+    "entidad": "Agencia Boliviana de Energía Nuclear",
+    "fuente": "https://digital.gob.bo/pisleas/central/ABEN.pdf"
+  },
+  {
+    "entidad": "Agencia Estatal de Vivienda",
+    "fuente": "https://digital.gob.bo/pisleas/central/Agencia%20estatal%20de%20vivienda-reducido.pdf"
+  },
+  {
+    "entidad": "Agencia para el Desarrollo de las Macroregiones y Zonas Fronterizas",
+    "fuente": "https://digital.gob.bo/pisleas/central/ADEMAF.pdf"
+  },
+  {
+    "entidad": "Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea",
+    "fuente": "https://digital.gob.bo/pisleas/central/Administraci%C3%B3n%20de%20Aeropuertos%20y%20Servicios%20Auxiliares%20a%20la%20Navegaci%C3%B3n%20A%C3%A9rea.pdf"
+  },
+  {
+    "entidad": "Administración de servicios portuarios",
+    "fuente": "https://digital.gob.bo/pisleas/central/Administraci%C3%B3n%20de%20servicios%20portuarios.pdf"
+  },
+  {
+    "entidad": "Aduana Nacional",
+    "fuente": "https://digital.gob.bo/pisleas/central/Aduana%20Nacional.pdf"
+  },
+  {
+    "entidad": "Agencia Boliviana Espacial",
+    "fuente": "https://digital.gob.bo/pisleas/central/AGENCIA%20BOLIVIANA%20ESPACIAL%20-%20ABE.pdf"
+  },
+  {
+    "entidad": "Agencia para el desarrollo de la sociedad de la información en Bolivia",
+    "fuente": "https://digital.gob.bo/pisleas/central/Agencia%20para%20el%20desarrollo%20de%20la%20sociedad%20de%20la%20informaci%C3%B3n%20en%20Bolivia.pdf"
+  },
+  {
+    "entidad": "Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación",
+    "fuente": "https://digital.gob.bo/pisleas/central/AGETIC.pdf"
+  },
+  {
+    "entidad": "Agencia Nacional de Hidrocarburos",
+    "fuente": "https://digital.gob.bo/pisleas/central/ANH.pdf"
+  },
+  {
+    "entidad": "Autoridad de Supervisión del Sistema Financiero",
+    "fuente": "https://digital.gob.bo/pisleas/central/ASFI-Reducido.pdf"
+  },
+  {
+    "entidad": "Autoridad de Regularización y Fiscalización de Telecomunicaciones y Transportes",
+    "fuente": "https://digital.gob.bo/pisleas/central/ATT.pdf"
+  },
+  {
+    "entidad": "Autoridad de Fiscalización y Control de Pensiones y Seguros",
+    "fuente": "https://digital.gob.bo/pisleas/central/APS.pdf"
+  },
+  {
+    "entidad": "Autoridad de Impugnación Tributaria",
+    "fuente": "https://digital.gob.bo/pisleas/central/Autoridad%20de%20Impungaci%C3%B3n%20Tributaria.pdf"
+  },
+  {
+    "entidad": "Autoridad de Electricidad",
+    "fuente": "https://digital.gob.bo/pisleas/central/Autoridad%20Electricidad.pdf"
+  },
+  {
+    "entidad": "Autoridad Jurisdiccional Administrativa Minera",
+    "fuente": "https://digital.gob.bo/pisleas/central/Autoridad%20Jursidiccional%20Administrativa%20Minera.pdf"
+  },
+  {
+    "entidad": "Autoridad Plurinacional de la Madre Tierra",
+    "fuente": "https://digital.gob.bo/pisleas/central/Autoridad%20Plurinacional%20de%20la%20Madre%20Tierra.pdf"
+  },
+  {
+    "entidad": "Caja Nacional de Salud",
+    "fuente": "https://digital.gob.bo/pisleas/central/Caja%20Nacional%20de%20Salud.pdf"
+  },
+  {
+    "entidad": "Caja de Salud del Servicio Nacional de Caminos y Ramas Anexas",
+    "fuente": "https://digital.gob.bo/pisleas/central/Caja%20de%20salud%20de%20caminos-reducido.pdf"
+  },
+  {
+    "entidad": "Cámara de Senadores",
+    "fuente": "https://digital.gob.bo/pisleas/central/C%C3%A1mara%20de%20senadores.pdf"
+  },
+  {
+    "entidad": "Comité Nacional de Personas con Discapacidad",
+    "fuente": "https://digital.gob.bo/pisleas/central/CONALPEDIS.pdf"
+  },
+  {
+    "entidad": "Contraloría General del Estado",
+    "fuente": "https://digital.gob.bo/pisleas/central/Contralor%C3%ADa.pdf"
+  },
+  {
+    "entidad": "Dirección General de Aeronáutica Civil",
+    "fuente": "https://digital.gob.bo/pisleas/central/DGAC.pdf"
+  },
+  {
+    "entidad": "Dirección del Notariado Plurinacional",
+    "fuente": "https://digital.gob.bo/pisleas/central/Direcci%C3%B3n%20del%20notariado%20plurinacional.pdf"
+  },
+  {
+    "entidad": "Dirección Nacional de Reinvindicación Marítima, Silala y recursos Hídricos Internacionales",
+    "fuente": "https://digital.gob.bo/pisleas/central/DIREMAR.pdf"
+  },
+  {
+    "entidad": "Empresa Azucarera San Buenaventura",
+    "fuente": "https://digital.gob.bo/pisleas/central/EASBA.pdf"
+  },
+  {
+    "entidad": "Empresa Nacional de Electricidad",
+    "fuente": "https://digital.gob.bo/pisleas/central/ENDE.pdf"
+  },
+  {
+    "entidad": "Fondo de Financiamiento para la Minería",
+    "fuente": "https://digital.gob.bo/pisleas/central/FOFIM-reducido.pdf"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Regional",
+    "fuente": "https://digital.gob.bo/pisleas/central/FNDR.pdf"
+  },
+  {
+    "entidad": "Fondo Nacional de Desarrollo Forestal",
+    "fuente": "https://digital.gob.bo/pisleas/central/FONABOSQUE.pdf"
+  },
+  {
+    "entidad": "Fondo de Desarrollo del Sistema Financiero y de Apoyo al Sector Productivo",
+    "fuente": "https://digital.gob.bo/pisleas/central/FONDESIF.pdf"
+  },
+  {
+    "entidad": "Gestora Pública",
+    "fuente": "https://digital.gob.bo/pisleas/central/GESTORA.pdf"
+  },
+  {
+    "entidad": "Instituto Nacional de Reforma Agraria",
+    "fuente": "https://digital.gob.bo/pisleas/central/INRA.pdf"
+  },
+  {
+    "entidad": "Instituo Nacional de Estadística",
+    "fuente": "https://digital.gob.bo/pisleas/central/INE-reducido.pdf"
+  },
+  {
+    "entidad": "Instituto del seguro Agrario",
+    "fuente": "https://digital.gob.bo/pisleas/central/INRA.pdf"
+  },
+  {
+    "entidad": "Instituo Nacional de Salud Ocupacional",
+    "fuente": "https://digital.gob.bo/pisleas/central/INSO.pdf"
+  },
+  {
+    "entidad": "Instituto Nacional de Innovación Agropecuaria y Forestal",
+    "fuente": "https://digital.gob.bo/pisleas/central/INIAF-reducido.pdf"
+  },
+  {
+    "entidad": "Lotería Nacional",
+    "fuente": "https://digital.gob.bo/pisleas/central/LOTERIA%20NACIONAL.pdf"
+  },
+  {
+    "entidad": "Ministerio de Comunicación",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20COMUNICACI%C3%93N.pdf"
+  },
+  {
+    "entidad": "Ministerio de Economía y Finanzas Públicas",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20ECONOM%C3%8DA%20Y%20FINANZAS.pdf"
+  },
+  {
+    "entidad": "Ministerio de Energía",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20ENERG%C3%8DA.pdf"
+  },
+  {
+    "entidad": "Ministerio de Justicia y Transparencia Interinstitucional",
+    "fuente": "https://digital.gob.bo/pisleas/central/Ministerio%20de%20justicia%20y%20transaparencia%20institucional-reducido.pdf"
+  },
+  {
+    "entidad": "Ministerio de la Presidencia",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20LA%20PRESIDENCIA.pdf"
+  },
+  {
+    "entidad": "Ministerio de Planificación",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20PLANIFICACI%C3%93N.pdf"
+  },
+  {
+    "entidad": "Ministerio de Relaciones Exteriores",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20RELACIONES%20EXTERIORES.pdf"
+  },
+  {
+    "entidad": "Ministerio de trabajo, empleo y previsión social",
+    "fuente": "https://digital.gob.bo/pisleas/central/MINISTERIO%20DE%20TRABAJO%2C%20EMPLEO%20Y%20PREVISI%C3%93N%20SOCIAL.pdf"
+  },
+  {
+    "entidad": "Ministerio de Hidrocarburos",
+    "fuente": "https://digital.gob.bo/pisleas/central/Ministerio%20de%20hidrocarburos-reducido.pdf"
+  },
+  {
+    "entidad": "Observatorio Plurinacional de la calidad educativa",
+    "fuente": "https://digital.gob.bo/pisleas/central/Observatorio%20Plurinacional%20de%20la%20calidad%20educativa.pdf"
+  },
+  {
+    "entidad": "Oficina pública para el fortalecimiento de la Empresa Pública",
+    "fuente": "https://digital.gob.bo/pisleas/central/Observatorio%20Plurinacional%20de%20la%20calidad%20educativa.pdf"
+  },
+  {
+    "entidad": "Proyecto Sucre ci",
+    "fuente": "https://digital.gob.bo/pisleas/central/Proyecto%20Sucre%20ciudada%20Universitaria.pdf"
+  },
+  {
+    "entidad": "Registro Internacional Boliviano",
+    "fuente": "https://digital.gob.bo/pisleas/central/REGISTRO%20INTERNACIONAL%20BOLIVIANO%20DE%20BUQUES.pdf"
+  },
+  {
+    "entidad": "Registro Único para la Administración Tributaria Municipal",
+    "fuente": "https://digital.gob.bo/pisleas/central/RUAT-reducido.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario Tarija",
+    "fuente": "https://digital.gob.bo/pisleas/central/SEGURO%20SOCIAL%20UNIVERSITARIO%20-%20TARIJA.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario Cochabamba",
+    "fuente": "https://digital.gob.bo/pisleas/central/SEGURO%20SOCIAL%20UNIVERSITARIO%20COCHABAMBA.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario Oruro",
+    "fuente": "https://digital.gob.bo/pisleas/central/Seguro%20social%20Universitario%20Oruro.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario de Potosí",
+    "fuente": "https://digital.gob.bo/pisleas/central/Seguro%20Social%20Universitario%20Potos%C3%AD-reducido.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario Santa Cruz",
+    "fuente": "https://digital.gob.bo/pisleas/central/SEGURO%20SOCIAL%20UNIVERSITARIO%20SANTA%20CRUZ.pdf"
+  },
+  {
+    "entidad": "Seguro Social Universitario Sucre",
+    "fuente": "https://digital.gob.bo/pisleas/central/SEGURO%20SOCIAL%20UNIVERSITARIO%20SUCRE.pdf"
+  },
+  {
+    "entidad": "Servicio de Impuestos Nacionales",
+    "fuente": "https://digital.gob.bo/pisleas/central/SERVICIO%20DE%20IMPUESTOS%20NACIONALES.pdf"
+  },
+  {
+    "entidad": "Servicio Nacional de patrimonio del Estado",
+    "fuente": "https://digital.gob.bo/pisleas/central/SEGURO%20SOCIAL%20UNIVERSITARIO%20SUCRE.pdf"
+  },
+  {
+    "entidad": "Servicio Nacional de propiedad Intelectual",
+    "fuente": "https://digital.gob.bo/pisleas/central/SENAPI.pdf"
+  },
+  {
+    "entidad": "Servicio Nacional del sistema de Reparto",
+    "fuente": "https://digital.gob.bo/pisleas/central/SENASIR.pdf"
+  },
+  {
+    "entidad": "Servicio Nacional Textil",
+    "fuente": "https://digital.gob.bo/pisleas/central/Senatex.pdf"
+  },
+  {
+    "entidad": "Servicio de Hidrografía naval",
+    "fuente": "https://digital.gob.bo/pisleas/central/Servicio%20de%20Hidrograf%C3%ADa%20Naval.pdf"
+  },
+  {
+    "entidad": "Servicio Departamental de Riego – La Paz",
+    "fuente": "https://digital.gob.bo/pisleas/central/Servicio%20Departamental%20de%20Riego%20%E2%80%93%20La%20Paz.pdf"
+  },
+  {
+    "entidad": "Servicio Estatal de Autonomías",
+    "fuente": "https://digital.gob.bo/pisleas/central/Servicio%20Estatal%20de%20Autonom%C3%ADas.pdf"
+  },
+  {
+    "entidad": "Servicio General de Identificación",
+    "fuente": "https://digital.gob.bo/pisleas/central/SERVICIO%20GENERAL%20DE%20IDENTIFICACIO%C5%83%20PERSONAL.pdf"
+  },
+  {
+    "entidad": "Servicio Geológico Minero",
+    "fuente": "https://digital.gob.bo/pisleas/central/Servicio%20Geol%C3%B3gico%20Minero.pdf"
+  },
+  {
+    "entidad": "UDAPE",
+    "fuente": "https://digital.gob.bo/pisleas/central/UDAPE-reducido.pdf"
+  },
+  {
+    "entidad": "Universidad Mayor de San Simón",
+    "fuente": "https://digital.gob.bo/pisleas/central/UMSS.pdf"
+  },
+  {
+    "entidad": "Unidad Ejecutora del Fondo Nacional de Solidaridad y Equidad",
+    "fuente": "https://digital.gob.bo/pisleas/central/UDAPE-reducido.pdf"
+  },
+  {
+    "entidad": "Unidad de Investigaciones Financieras",
+    "fuente": "https://digital.gob.bo/pisleas/central/UDAPE-reducido.pdf"
+  },
+  {
+    "entidad": "Vicepresidencia",
+    "fuente": "https://digital.gob.bo/pisleas/central/Vicepresidencia.pdf"
+  },
+  {
+    "entidad": "Yacimientos de Litio Bolivianos",
+    "fuente": "https://digital.gob.bo/pisleas/central/Yacimientos%20de%20Litio%20Bolivianos.pdf"
+  },
+  {
+    "entidad": "Yacimientos Petrolíferos Fiscales Bolivianos",
+    "fuente": "https://digital.gob.bo/pisleas/central/YPFB.pdf"
+  },
+  {
+    "entidad": "Asociación de Gobiernos Autónomos Municipales de Cochabamba",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/ASOCIACI%C3%93N%20DE%20GOBIERNOS%20AUT%C3%93NOMOS%20MUNICIPALES%20DE%20COCHABAMBA%20-%20AMDECO.pdf"
+  },
+  {
+    "entidad": "Empresa Municipal de Agua Potable y Alcantarillado Viacha",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/EMAPAV.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Anzaldo",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20ANZALDO%20S.RA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Sicaya",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20SICAYA%20S.RA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Cochabamba",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20COCHABAMBA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Tocopaya",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20TACOPAYA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Tiquipaya",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20TIQUIPAYA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Trinidad",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20TRINIDAD.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Vacas",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICIPAL%20DE%20VACAS.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Cliza",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/GOBIERNO%20AUT%C3%93NOMO%20MUNICPAL%20DE%20CLIZA.pdf"
+  },
+  {
+    "entidad": "Gobierno Autónomo Municipal de Quillacollo",
+    "fuente": "https://digital.gob.bo/pisleas/autonomos/QUILLACOLLO.pdf"
+  }
+]
